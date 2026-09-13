@@ -13,8 +13,8 @@
   <a href="https://instagram.com/todesco.7">
     <img src="https://img.shields.io/badge/Instagram-todesco.7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-em%20breve-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/lucas-rufato-todesco-906944292/?skipRedirect=true">
+    <img src="https://img.shields.io/badge/LinkedIn-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
